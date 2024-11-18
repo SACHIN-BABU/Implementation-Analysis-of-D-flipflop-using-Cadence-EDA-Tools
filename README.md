@@ -117,11 +117,10 @@ iv)	Creating the new test cell view
 	+ Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 - Execute Simulation -- Net list and Run
 
-![Screenshot 2024-11-18 153751](https://github.com/user-attachments/assets/ea9de6b2-f753-479e-b926-1401f58bcf60)
-
-
-
  
+![Screenshot 2024-11-18 153751](https://github.com/user-attachments/assets/69ef0d58-4571-46c8-82db-4e693bab27f0)
+
+
 
 
 
@@ -130,7 +129,6 @@ iv)	Creating the new test cell view
 
 
 ![exp 3 4](https://github.com/user-attachments/assets/4aa1e522-3af5-4df7-a772-3560b97d0b68)
-
 
 
 
