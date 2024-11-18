@@ -127,8 +127,7 @@ iv)	Creating the new test cell view
 
 ### For Transient Analysis Settings and Output
 
-
-![exp 3 4](https://github.com/user-attachments/assets/4aa1e522-3af5-4df7-a772-3560b97d0b68)
+![Screenshot 2024-11-18 190103](https://github.com/user-attachments/assets/ed9d25df-9a48-44d8-a68a-ab09beb8215c)
 
 
 
